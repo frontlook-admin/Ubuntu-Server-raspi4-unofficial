@@ -9,7 +9,10 @@ sudo rm -rf ~/rpi-source
 sudo rm -rf ~/firmware-build
 sudo rm -rf ~/firmware
 sudo rm -rf ~/firmware-nonfree
+sudo rm -rf ~/firmware-ubuntu-1804
+sudo rm -rf ~/firmware-ubuntu-1910
 sudo rm -rf ~/linux-*
 sudo rm -rf ~/updates
 sudo rm -rf ~/updates.tar.xz 
 sudo rm -rf ~/ubuntu*.img *+raspi4.img.xz
+sudo rm -rf *.img
